@@ -1,3 +1,9 @@
 .container col-lg-3{
     margin-top: 20%;
 }
+.card-text{
+    text-decoration: none;
+}
+#keralamap{
+    padding-left: 540px;
+}
